@@ -1,0 +1,9 @@
+70
+7
+Sock 3 200
+TV 40 600
+Necklace 1 80
+Food 5 10
+Cheese 50 1000
+Urn 21 500
+Laptop 13 200

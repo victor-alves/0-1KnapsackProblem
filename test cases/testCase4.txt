@@ -1,0 +1,13 @@
+1000000
+10
+Engine 389000 5
+Passenger 130000 7
+Freight 400000 2
+Coal 30000 4
+PolarExpress 500000 15
+RunawayCaboose 40000 13
+Caboose 50000 3
+ThomasTankEngine 118200 11
+Monorail 37000 4
+BoxCar 250000 1
+SantaSleigh 10000 5

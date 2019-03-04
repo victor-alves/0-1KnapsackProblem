@@ -1,0 +1,6 @@
+10
+4
+Cheap 3 3
+KindaCheap 3 2
+RealNice 5 5
+Bargain 1 4

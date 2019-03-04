@@ -1,0 +1,5 @@
+4
+3
+Stereo 4 3000
+Laptop 3 2000
+Guitar 1 1500
